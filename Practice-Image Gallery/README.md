@@ -1,0 +1,1 @@
+#### Farklı boyuttaki resimleri yan yana getirerek resim galerisi oluşturdum.
